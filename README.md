@@ -1,4 +1,4 @@
-﻿# OCR-App
+
 # OCR Application
 
 ## Overview
