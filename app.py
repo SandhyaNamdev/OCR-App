@@ -9,7 +9,6 @@ import tempfile
 import base64
 from io import BytesIO
 import os
-from utils.preprocessing import enhance_image
 from utils.ocr import SmartOCREngine, extract_text_with_confidence
 from utils.table_detection import extract_tables
 
