@@ -76,6 +76,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for the OCR engine.
 - [OpenCV](https://opencv.org/) for image processing capabilities.
 
-## Contact
+## GUI
+![Screenshot 2025-06-27 173400](https://github.com/user-attachments/assets/e8511915-4c7a-49f1-b336-121bdd14f6d5)
 
-For any inquiries or support, please contact [your.email@example.com].
+![Screenshot 2025-06-27 173447](https://github.com/user-attachments/assets/77ee7305-4d79-4f0f-919a-7492fd195edd)
+
+![Screenshot 2025-06-27 173520](https://github.com/user-attachments/assets/cd28730b-a315-4704-b09c-ab2979414a2c)
+
+![Screenshot 2025-06-27 173549](https://github.com/user-attachments/assets/2c26be5b-ae79-4b00-83c8-b5fb55c094be)
+
+
+
