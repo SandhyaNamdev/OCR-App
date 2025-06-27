@@ -1,6 +1,5 @@
 # main.py (Integrated Solution)
 import streamlit as st
-import cv2
 import numpy as np
 import pytesseract
 import pandas as pd
