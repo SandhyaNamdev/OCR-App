@@ -10,8 +10,6 @@ import base64
 from io import BytesIO
 import os
 
-from utils.table_detection import extract_tables
-
 # Configure app
 st.set_page_config(layout="wide", page_title="Smart OCR Pro")
 st.title("🚀 Smart OCR Pro - Advanced Document Processing")
