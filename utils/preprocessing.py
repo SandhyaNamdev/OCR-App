@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import enhance_image
 from PIL import Image
 
 def enhance_image(image):
