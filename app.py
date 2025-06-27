@@ -9,6 +9,10 @@ import tempfile
 import base64
 from io import BytesIO
 import os
+from utils.preprocessing import enhance_imag
+from utils.ocr import SmartOCREngine, extract_text_with_confidence
+from utils.table_detection import extract_tables
+
 
 # Configure app
 st.set_page_config(layout="wide", page_title="Smart OCR Pro")
